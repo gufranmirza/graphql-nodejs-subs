@@ -29,7 +29,7 @@
     "graphql-playground-middleware-express": "^1.7.0",
     "graphql-relay": "^0.5.5",
     "graphql-subscriptions": "^0.5.8",
-    "mongoose": "^5.1.4",
+    "mongoose": "^5.7.5",
     "subscriptions-transport-ws": "^0.9.9"
   },
   "scripts": {
