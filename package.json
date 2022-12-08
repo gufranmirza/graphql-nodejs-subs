@@ -23,7 +23,7 @@
     "cors": "^2.8.4",
     "createServer": "^3.0.0",
     "dotenv": "^6.0.0",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "graphql": "^0.13.2",
     "graphql-iso-date": "^3.5.0",
     "graphql-playground-middleware-express": "^1.7.0",
